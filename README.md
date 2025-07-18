@@ -8,4 +8,5 @@ Rare diseases collectively affect 5% of the population. However, fewer than 50% 
 
 Nigreisy Montalvo, Francisco Requena, Emidio Capriotti & Antonio Rausell
 
+Correspondence to: antonio.rausell@institutimagine.org
 
