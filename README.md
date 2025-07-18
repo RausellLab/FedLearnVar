@@ -1,5 +1,5 @@
 # FedLearnVar [![DOI](https://zenodo.org/badge/950719898.svg)](https://doi.org/10.5281/zenodo.16029049)
-Federated Learning for the pathogenicity annotation of genetic variants in multi-site clinical settings,
+## Federated Learning for the pathogenicity annotation of genetic variants in multi-site clinical settings
 
 available at [medrXiv](https://www.medrxiv.org/content/10.1101/2025.04.03.25325184v1)
 
